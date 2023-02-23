@@ -23,4 +23,3 @@ else:
     print("Your net salary is", round(net_salary), "euros")
 
 
-
